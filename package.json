@@ -1,0 +1,26 @@
+{
+  "name": "webpack",
+  "version": "0.0.1",
+  "description": "webpack test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/283775789/webpack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/283775789/webpack/issues"
+  },
+  "homepage": "https://github.com/283775789/webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
